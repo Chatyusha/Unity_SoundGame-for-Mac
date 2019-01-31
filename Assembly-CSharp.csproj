@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{520AE866-5930-8826-E4E3-D4F767D41A2A}</ProjectGuid>
+    <ProjectGuid>{90BDFF82-5A81-6713-3D1D-C716C03164A0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,19 +61,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\KeyScript.cs" />
     <Compile Include="Assets\Scripts\NomalBallScript.cs" />
+    <Compile Include="Assets\Scripts\SPBallScript.cs" />
     <None Include="Assets\UnityChan\Stage\Shader\AlphaMask.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/hiroaki/Desktop/Unity/SoundGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/hiroaki/Desktop/Unity/SoundGame for Mac/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/hiroaki/Desktop/Unity/SoundGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/hiroaki/Desktop/Unity/SoundGame for Mac/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/hiroaki/Desktop/Unity/SoundGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/hiroaki/Desktop/Unity/SoundGame for Mac/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/hiroaki/Desktop/Unity/SoundGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/hiroaki/Desktop/Unity/SoundGame for Mac/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

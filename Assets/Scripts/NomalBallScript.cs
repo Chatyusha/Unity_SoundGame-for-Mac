@@ -16,8 +16,9 @@ public class NomalBallScript : MonoBehaviour {
     private void OnTriggerStay(Collider other)
     {
         bool isShift = Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift);
-        if (other.gameObject.name == "key1" && Input.GetKeyDown(KeyCode.D) && isShift == false)
+        if (other.gameObject.name == "Key1"&&Input.GetKeyDown(KeyCode.D)&&isShift==false)
         {
+            Debug.Log("succes");
             Destroy(gameObject);
         }
         else if (other.gameObject.name == "Key2" && Input.GetKeyDown(KeyCode.F) && isShift == false)

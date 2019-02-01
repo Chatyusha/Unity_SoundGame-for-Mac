@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerMoveScript : MonoBehaviour
 {
-    [SerializeField, Range(0, 60*3+42)]
+    [SerializeField, Range(0, 222)]//[SerializeField, Range(0, 音楽終了時間)]
     float time = 1;
 
     [SerializeField]

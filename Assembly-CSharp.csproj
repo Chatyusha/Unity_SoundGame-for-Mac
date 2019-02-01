@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\KeyScript.cs" />
     <Compile Include="Assets\Scripts\NomalBallScript.cs" />
+    <Compile Include="Assets\Scripts\PlayerMoveScript.cs" />
     <Compile Include="Assets\Scripts\SPBallScript.cs" />
     <None Include="Assets\UnityChan\Stage\Shader\AlphaMask.shader" />
     <Reference Include="UnityEditor.StandardEvents">

@@ -25,11 +25,11 @@ public class NomalBallScript : MonoBehaviour {
         {
             Destroy(gameObject);
         }
-        else if (other.gameObject.name == "Key3" && Input.GetKeyDown(KeyCode.K) && isShift == false)
+        else if (other.gameObject.name == "Key3" && Input.GetKeyDown(KeyCode.J) && isShift == false)
         {
             Destroy(gameObject);
         }
-        else if (other.gameObject.name == "Key4" && Input.GetKeyDown(KeyCode.L) && isShift == false)
+        else if (other.gameObject.name == "Key4" && Input.GetKeyDown(KeyCode.K) && isShift == false)
         {
             Destroy(gameObject);
         }

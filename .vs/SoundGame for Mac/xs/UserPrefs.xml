@@ -5,7 +5,8 @@
       <File FileName="Assets/Scripts/KeyScript.cs" Line="9" Column="11" />
       <File FileName="Assets/Scripts/SPBallScript.cs" Line="28" Column="69" />
       <File FileName="Assets/Scripts/PlayerMoveScript.cs" Line="7" Column="36" />
-      <File FileName="Assets/Scripts/NomalBallScript.cs" Line="32" Column="79" />
+      <File FileName="Assets/Scripts/NomalBallScript.cs" Line="18" Column="8" />
+      <File FileName="Assets/Scripts/UIScript.cs" Line="20" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

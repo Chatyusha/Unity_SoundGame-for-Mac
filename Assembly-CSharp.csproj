@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\NomalBallScript.cs" />
     <Compile Include="Assets\Scripts\PlayerMoveScript.cs" />
     <Compile Include="Assets\Scripts\SPBallScript.cs" />
+    <Compile Include="Assets\Scripts\UIScript.cs" />
     <None Include="Assets\UnityChan\Stage\Shader\AlphaMask.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/hiroaki/Desktop/Unity/SoundGame for Mac/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

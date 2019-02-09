@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\KeyScript.cs" />
     <Compile Include="Assets\Scripts\NomalBallScript.cs" />
     <Compile Include="Assets\Scripts\PlayerMoveScript.cs" />
+    <Compile Include="Assets\Scripts\PlusPoint.cs" />
     <Compile Include="Assets\Scripts\SPBallScript.cs" />
     <Compile Include="Assets\Scripts\UIScript.cs" />
     <None Include="Assets\UnityChan\Stage\Shader\AlphaMask.shader" />

@@ -39,5 +39,5 @@ using --ver.1.0.4--
 ## 質問受け付けてます。下記のメールアドレスからできます。
 
 ***
-mail (luckyhiroaki0922@gmail.com)
+mail **(luckyhiroaki0922@gmail.com)
 　　

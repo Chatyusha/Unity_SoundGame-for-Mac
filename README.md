@@ -33,4 +33,6 @@ using --ver.1.0.4--
 　　![2019-02-11 16 27 10](https://user-images.githubusercontent.com/44997646/52550124-194cc600-2e1a-11e9-8d3f-7fd6dcf7a517.png)
 
 9. 完成！　(多分・・・)
+
+曲はdefaultで　「Take your Way」が入っています。
 　　

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerMoveScript : MonoBehaviour
 {
-    [SerializeField, Range(0, 600)]
+    [SerializeField, Range(0, 222)]
     float time = 1;
 
     [SerializeField]

@@ -34,5 +34,6 @@ using --ver.1.0.4--
 
 9. 完成！　(多分・・・)
 
-曲はdefaultで　「Take your Way」が入っています。
+曲はdefaultで　「[Take your Way](https://www.youtube.com/watch?v=zZ-NG0kZURg)」が入っています。
+
 　　

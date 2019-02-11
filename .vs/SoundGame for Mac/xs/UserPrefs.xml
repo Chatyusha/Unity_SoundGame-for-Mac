@@ -8,7 +8,6 @@
       <File FileName="Assets/Scripts/NomalBallScript.cs" Line="45" Column="6" />
       <File FileName="Assets/Scripts/UIScript.cs" Line="15" Column="28" />
       <File FileName="Assets/Scripts/PlusPoint.cs" Line="17" Column="1" />
-      <File FileName="Assets/Scripts/SceneManageScript.cs" Line="18" Column="53" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

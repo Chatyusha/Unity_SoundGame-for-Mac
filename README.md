@@ -36,5 +36,8 @@ using --ver.1.0.4--
 
 曲はdefaultで　「[Take your Way](https://www.youtube.com/watch?v=zZ-NG0kZURg)」が入っています。
 
-## 質問受け付けてます。[ココ](luckyhiroaki0922@gmail.com)をクリックしてね
+## 質問受け付けてます。下記のメールアドレスからできます。
+
+***
+mail (luckyhiroaki0922@gmail.com)
 　　

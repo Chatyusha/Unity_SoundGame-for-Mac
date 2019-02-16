@@ -6,7 +6,7 @@ These packages use both Windiws and Mac.
 using --ver.1.0.4--
 1. ver.1.0.4のパッケージをProjectにドラッグ＆ドロップ
 
-   *SoundGame for Mac* のsceneを使う!!
+   _SoundGame for Mac_ のsceneを使う!!
 
 2. Assets>>Prefabs からStageを選んでHierarchyにドラッグ＆ドロップ
 

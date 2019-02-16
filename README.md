@@ -6,6 +6,8 @@ These packages use both Windiws and Mac.
 using --ver.1.0.4--
 1. ver.1.0.4のパッケージをProjectにドラッグ＆ドロップ
 
+   *"SoundGame for Mac"*のsceneを使う!!
+
 2. Assets>>Prefabs からStageを選んでHierarchyにドラッグ＆ドロップ
 
 3. 2.でドロップしたStageのz座標を(24*小節目-12)にする。

@@ -38,8 +38,14 @@ using --ver.1.0.4--
 
 曲はdefaultで　「[Take your Way](https://www.youtube.com/watch?v=zZ-NG0kZURg)」が入っています。
 
+### ゲームの操作方法
+
+  左から順に　*D*,*F*,*J*,*K* です。
+
+  赤いボール(Ball(sp))は *shift* を押しながら上記のキーを押します。
+
 ## 質問受け付けてます。下記のメールアドレスからできます。
 
 ***
-mail **(luckyhiroaki0922@gmail.com)
+mail (luckyhiroaki0922@gmail.com)
 　　

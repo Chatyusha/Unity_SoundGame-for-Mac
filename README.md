@@ -7,7 +7,7 @@ using --ver.1.0.4--
 
 ## __訂正　ver.1.0.4__
 
-　　'MainCamera>Player>key(1~4)>sprite-(1~4)spriteのy座標を-0.4にしたらいけます。'
+　　'MainCamera>Player>key(1〜4)>sprite-(1〜4)spriteのy座標を-0.4にしたらいけます。'
 
 1. ver.1.0.4のパッケージをProjectにドラッグ＆ドロップ
 

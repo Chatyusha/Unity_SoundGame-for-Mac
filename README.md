@@ -7,12 +7,14 @@ using --ver.1.0.4--
 
 ## __訂正　ver.1.0.4__
 
-　　'MainCamera>Player>key(1〜4)>sprite-(1〜4)spriteのy座標を-0.4にしたらいけます。'
+　　MainCamera>Player>key(1〜4)>sprite-(1〜4)spriteのy座標を-0.4にする。
+
+***
 
 1. ver.1.0.4のパッケージをProjectにドラッグ＆ドロップ
 
-   __SoundGame for Mac__ のsceneを使う!!
-
+  <font color="Red">__SoundGame for Mac__ のsceneを使う!!</font>
+  
 2. Assets>>Prefabs からStageを選んでHierarchyにドラッグ＆ドロップ
 
 3. 2.でドロップしたStageのz座標を(24*小節目-12)にする。
